@@ -57,7 +57,7 @@ Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much 
 DSP is much more efficient. </br>
 VP-728 also has Luma Enhancemend that does Nothing to RGB input/signal. </br>
 
-Also has multiple inputs, works as a Small Switcher. </br>
+has multiple inputs, works as a Small Switcher. </br>
 good for PC Monitors that only have 1x HDMI input, No VGA input. </br>
 but... </br>
 Max Resolution 1920x1200x60 </br>
