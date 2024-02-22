@@ -67,3 +67,4 @@ some features do Not work at High Resolution *Read Manual. </br>
 Acceptable: </br>
 has a small 1U 12v fan, tolerable, Not as loud / noisy as others. </br>
 fanless modification with bigger heatsinks would be nice. </br>
+or a bigger 140mm fan on the Top, but No longer 1U. </br> 
