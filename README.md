@@ -19,7 +19,9 @@ the 500MHz model has same screen, maybe has same problem, Unknown. </br>
 59fps makes VGA output 100% incompatible with most VGA to HDMI converters, </br>
 requires a DSP Scaler, most monitors with VGA input have enough DSP to adapt, </br>
 but cheap converters Do Not. </br>
-some give Green Screen, others give an image outside screen. </br> 
+some give Green Screen, others give an image outside screen. </br>
+most monitors VGA input is Not isolated, Monitor switching noise affects measurements. </br>
+Plastic Monitors are Not Grounded. </br>
 
 tested many cheap & hi quality converters without Scaler, None worked. </br>
 
