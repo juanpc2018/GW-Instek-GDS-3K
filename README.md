@@ -29,7 +29,7 @@ Works: </br>
 Kramer VP-728 FW 1.29 </br>
 
 Should work: </br>
-Kramer VP-729 </br>
+Kramer VP-729 "Ethernet"</br>
 
 Maybe work: </br>
 Kramer older models: VP-718 719 720 724 xl </br>
