@@ -53,7 +53,7 @@ Advantage:  </br>
 VP-728 has Detail Enhancement and Chroma Enhancer </br>
 both settings at Low, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
 Looking YouTube Videos feels like watching 444 instead of 422. </br>
-Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much CPU. </br>
+Opera Browser has a Lucid Mode 4 similar to Detail Enhacement Low, but needs too much CPU. </br>
 DSP is much more efficient. </br>
 VP-728 also has Luma Enhancemend that does Nothing to RGB input/signal. </br>
 
