@@ -68,3 +68,9 @@ Acceptable: </br>
 has a small 1U 12v fan, tolerable, Not as loud / noisy as others. </br>
 fanless modification with bigger heatsinks would be nice. </br>
 or a bigger 140mm fan on the Top, but No longer 1U. </br> 
+
+Latency:  </br>
+Near 0, DSP usually has 4-samples of audio latency,  </br>
+when TV is set to Game-Mode and VP-728 to: </br>
+Fast Switching, Frame Lock Off.  </br>
+Frame Lock On takes more time to Sync to Out to the In clock signals.  </br>
