@@ -46,18 +46,20 @@ Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
 VGA + HDMI sadly. </br>
 Only Analog Universal-Inputs+VGA *see manual. </br>
 HDMI Embedded Audio does Not work at 1920x1080 nor 1920x1200 with MacMini 2014. </br>
-manual say: does Not work with 1920x1080 but works with 1080p or Native </br>
+manual say: does Not work with RGB 1920x1080 but works with 1080p or Native </br>
 None Worked. </br>
 
-Advantage: VP-728 has Detail Enhancement and Chroma Enhancer </br>
+Advantage:  </br>
+VP-728 has Detail Enhancement and Chroma Enhancer </br>
 both settings at Low, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
 Looking YouTube Videos feels like watching 444 instead of 422. </br>
 Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much CPU. </br>
 DSP is much more efficient. </br>
+VP-728 also has Luma Enhancemend that does Nothing to RGB input/signal. </br>
 
 Also has multiple inputs, works as a Small Switcher. </br>
-good for PC Monitors that only have 1 HDMI input, No VGA input. </br>
-
+good for PC Monitors that only have 1x HDMI input, No VGA input. </br>
+but... </br>
 Max Resolution 1920x1200x60 </br>
 some features do Not work at High Resolution *Read Manual. </br>
 
