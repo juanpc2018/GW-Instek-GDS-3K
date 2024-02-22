@@ -4,7 +4,13 @@ GW Instek GDS-3000 series, have 2 groups... </br>
 from 150Mhz to 350Mhz with 5GSa/s and 500MHz with 4GSa/s, </br>
 the 500MHz has a different HW, different Firmware. </br>
 
-this is only for the 150MHz to 350MHz range 2 or 4 channels, Non-A models "The Original". </br>
+this is only for 150MHz to 350MHz range 2 or 4 channels, Non-A models "The Original". </br>
+GDS-3152 </br>
+GDS-3154 </br>
+GDS-3252 </br>
+GDS-3254 </br>
+GDS-3352 </br>
+GDS-3354 </br>
 
 Problem: </br>
 SVGA DB15 output is 800x600 BUT... Non-Standard 59fps, </br>
