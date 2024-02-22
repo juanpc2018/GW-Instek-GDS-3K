@@ -11,7 +11,7 @@ GDS-3252 </br>
 GDS-3254 </br>
 GDS-3352 </br>
 GDS-3354 </br>
-A-models are the New version, Unkown. </br>
+A-models are New version, Unkown. </br>
 
 Problem: </br>
 SVGA DB15 output is 800x600 BUT... Non-Standard 59fps, </br>
