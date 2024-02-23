@@ -43,7 +43,7 @@ maybe others... </br>
 
 Do Not Work: </br>
 Kramer VP-22 "Analog H-V Adjustment, RGBHV to Component BNC" </br>
-Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "VGA 5-wire RGBHV to Component 3-RCA" similar to Kramer VP-22. </br>
+Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "Analog VGA 5-wire RGBHV to Component 3-RCA" similar to Kramer VP-22. </br>
 
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
