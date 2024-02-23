@@ -37,7 +37,7 @@ Kramer Newer 2K models: [VP-771](https://www1.kramerav.com/us/Product/VP-771), [
 Maybe work: </br>
 Kramer older models: VP-718 719 720 724 xl </br>
 AudioAuthority [1366](https://www.cs1.net/products/audio_authority/1366.htm) "VGA to VGA", [1385](https://www.cs1.net/products/audio_authority/1385.htm) "VGA to HDMI" </br>
-Startech [VGA2HDPRO2](https://www.startech.com/en-us/audio-video-products/vga2hdpro2) </br>
+Startech [VGA2HDPRO2](https://www.startech.com/en-us/audio-video-products/vga2hdpro2) similar to 1385.</br>
 Micomsoft XPC-4 </br>
 maybe others... </br>
 
