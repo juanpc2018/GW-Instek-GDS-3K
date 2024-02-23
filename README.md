@@ -36,13 +36,14 @@ Kramer Newer 2K models: [VP-771](https://www1.kramerav.com/us/Product/VP-771), [
 
 Maybe work: </br>
 Kramer older models: VP-718 719 720 724 xl </br>
-AudioAuthority 1366 "VGA to VGA", 1385 "VGA to HDMI" </br>
+AudioAuthority [1366](https://www.cs1.net/products/audio_authority/1366.htm) "VGA to VGA", [1385](https://www.cs1.net/products/audio_authority/1385.htm) "VGA to HDMI" </br>
 Startech [VGA2HDPRO2](https://www.startech.com/en-us/audio-video-products/vga2hdpro2) </br>
 Micomsoft XPC-4 </br>
 maybe others... </br>
 
 Do Not Work: </br>
-Kramer Vp-22 "Analog H-V Adjustment" </br>
+Kramer VP-22 "Analog H-V Adjustment, RGBHV to Component BNC" </br>
+Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "VGA 5-wire RGBHV to Component 3-RCA" similar to Kramer VP-22. </br>
 
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
