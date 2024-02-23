@@ -44,9 +44,10 @@ maybe others... </br>
 Do Not Work: </br>
 Kramer VP-22 "Analog H-V Adjustment, RGBHV to Component BNC" </br>
 Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "Analog VGA 5-wire RGBHV to Component 3-RCA" similar to Kramer VP-22. </br>
-Component Video Input do Not accept 800x600 "Standard VGA Signal", </br>
-PCIe video card with VGA or DVI-A needs to be forced/tweaked to output compatible signals, </br>
-This devices are used mostly for connecting PC/Linux Console Emulators to High-End CRT TVs with YPbPr input. </br> 
+
+VGA to Component Video Input do Not accept 800x600 "Standard VGA Signal", </br>
+PCIe video card with VGA or [DVI-A](https://en.wikipedia.org/wiki/Digital_Visual_Interface#Connector) driver needs to be forced/tweaked to output compatible signals, </br>
+This are used mostly for connecting PC/Linux Console Emulators to CRT TVs with YPbPr input. </br> 
 
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
