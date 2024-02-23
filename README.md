@@ -37,7 +37,7 @@ Kramer Newer 2K models: [VP-771](https://www1.kramerav.com/us/Product/VP-771), [
 Maybe work: </br>
 Kramer older models: VP-718 719 720 724 xl </br>
 AudioAuthority 1366 </br>
-Startech VGA2HDMI "AudioAuthority Rebrad" </br>
+Startech [VGA2HDPRO2](https://www.startech.com/en-us/audio-video-products/vga2hdpro2) "AudioAuthority Rebrad/Upgrade" </br>
 Micomsoft XPC-4 </br>
 maybe others... </br>
 
