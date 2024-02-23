@@ -14,7 +14,7 @@ GDS-3354 </br>
 A-models are New version, Unkown. </br>
 
 Problem: </br>
-SVGA DB15 output is 800x600 BUT... Non-Standard 59fps, </br>
+SVGA db15 output is 800x600 BUT... Non-Standard 59fps, </br>
 the 500MHz model has same screen, maybe has same problem, Unknown. </br>
 
 59fps makes VGA output 100% incompatible with most VGA to HDMI converters, </br>
