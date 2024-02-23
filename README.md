@@ -47,7 +47,7 @@ Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "
 
 VGA to Component Video Input do Not accept 800x600 "Standard VGA Signal", </br>
 PCIe video card with VGA or [DVI-A](https://en.wikipedia.org/wiki/Digital_Visual_Interface#Connector) driver needs to be forced/tweaked to output compatible NTSC / PAL signals, </br>
-This are used mostly for connecting PC/Linux Game Emulators to CRT TVs with YPbPr input. </br> 
+This are used mostly for connecting PC/Linux Game Emulators to CRT TVs with YPbPr input "Retro Gaming" </br> 
 
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
