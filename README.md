@@ -52,7 +52,7 @@ This are used mostly for connecting PC/Linux Game Emulators to CRT TVs with YPbP
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
 VGA + HDMI sadly. </br>
-Only Analog Universal-Inputs+VGA *see manual. </br>
+Only Universal-Inputs+VGA *see manual. </br>
 HDMI Embedded Audio does Not work at 1920x1080 nor 1920x1200 with MacMini 2014. </br>
 manual say: does Not work with RGB 1920x1080 but works with 1080p or Native </br>
 None Worked probably because Linux was forced at 96Khz, VP-728 is 48Khz. </br>
