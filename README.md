@@ -69,7 +69,7 @@ Looking YouTube Videos feels like watching 444 instead of 422. </br>
 Opera Browser has a Lucid Mode 4 similar to Detail Enhacement Low, but needs too much CPU. </br>
 DSP is much more efficient. </br>
 NTSC looks Ok on a Cellphone, but in large screen 55" FullHD, Enhancements are a must. </br>
-also has Luma Enhancemend, does Nothing to RGB signal, the equivalent for YUV signals. </br>
+also has Luma Enhancement, does Nothing to RGB signal, for YUV signals. </br>
 
 has multiple inputs, works as a Small Switcher. </br>
 good for PC Monitors that only have 1x HDMI input, No VGA input. </br>
