@@ -65,7 +65,7 @@ alternate-sample-rate = 96000 </br>
 Advantage:  </br>
 VP-728 has Detail Enhancement and Chroma Enhancer </br>
 both settings at Low, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
-Looking YouTube Videos feels like watching 444 instead of 422. </br>
+Looking YouTube Videos feels like watching 444 instead of 420. </br>
 Opera Browser has a Lucid Mode 4 similar to Detail Enhacement Low, but needs too much CPU. </br>
 DSP is much more efficient. </br>
 NTSC looks Ok on a Cellphone, but in large screen 55" FullHD, Enhancements are a must. </br>
