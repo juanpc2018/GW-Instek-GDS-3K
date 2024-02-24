@@ -86,4 +86,4 @@ Latency:  </br>
 Near 0, DSP usually has 4-samples of audio latency,  </br>
 when TV is set to Game-Mode and VP-728 to: </br>
 Fast Switching, Frame Lock Off.  </br>
-Frame Lock On takes more time to Sync the Out to the In clock signal.  </br>
+Frame Lock On takes more time to Sync the Out clock to the Input clock.  </br>
