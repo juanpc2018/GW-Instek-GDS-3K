@@ -48,6 +48,7 @@ Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "
 VGA to Component Video do Not accept 800x600 "Standard VGA Signal", </br>
 PCIe video card with VGA or [DVI-A](https://en.wikipedia.org/wiki/Digital_Visual_Interface#Connector) output, </br>
 driver needs to be forced/tweaked to output compatible NTSC / PAL signals </br>
+[1](https://en.wikipedia.org/wiki/List_of_common_resolutions#Digital_standards),[2](https://en.wikipedia.org/wiki/480i#Technical_details),[3](https://en.wikipedia.org/wiki/YPbPr),[4](https://en.wikipedia.org/wiki/Standard-definition_television#Pixel_aspect_ratio),[5](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions#Modes_defined_by_VESA),[6](https://en.wikipedia.org/wiki/Computer_display_standard#Standards),[7](https://en.wikipedia.org/wiki/Graphics_display_resolution#Video_Graphics_Array_(VGA_and_derivatives)),[8](https://en.wikipedia.org/wiki/Extended_Display_Identification_Data#CTA_Data_Blocks),[9](https://en.wikipedia.org/wiki/Pixel_aspect_ratio#Pixel_aspect_ratios_of_common_video_formats),[10](https://en.wikipedia.org/wiki/Rec._601#Primary_chromaticities),[11](https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association),[12](https://en.wikipedia.org/wiki/List_of_broadcast_video_formats),[13](https://en.wikipedia.org/wiki/Standard-definition_television#Pixel_aspect_ratio) </br>
 for "Viewing PC on a TV" </br>
 Game Emulators to TVs/Recorders with YPbPr input "Retro Gaming" </br> 
 
