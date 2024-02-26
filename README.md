@@ -65,13 +65,13 @@ default-sample-rate = 96000 </br>
 alternate-sample-rate = 96000 </br>
 
 Advantage:  </br>
-VP-728 is the Only model that has Detail Enhancement and Chroma Enhancer. </br>
-both settings at Low, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
+VP-728 is the Only model that has Sharpnees, Detail Enhancement and Chroma Enhancer. </br>
+at Low setting, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
 Looking YouTube Videos feels like watching [444](https://www.displayninja.com/chroma-subsampling/) instead of [420](https://en.wikipedia.org/wiki/Chroma_subsampling#Sampling_systems_and_ratios) </br>
 
 Problem with Chroma Enhancer is that also makes compression "artifacts" more visible, </br>
 the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms. sadly. </br>
-NTSC video looks Ok on a small sceen, but large screen 55" at FullHD, Enhancements are a must. </br>
+NTSC video looks Ok on a small sceen, but large screens 55" at FullHD, require Enhancements. </br>
 1 type of Shapness is Not enough, too much of a single algorithm looks artificial, specially selected text. </br>
 using mutiple-pass / different algorithms with lower settings gives more natural enhancement. </br>
 VP-728 has Luma Enhancement for YUV signals, but does Nothing to RGB signal. </br>
