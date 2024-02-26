@@ -57,7 +57,7 @@ The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
 VGA + HDMI sadly. </br>
 Only Universal-Inputs+VGA *see manual. </br>
-HDMI Embedded Audio does Not work at 1920x1080 nor 1920x1200 with MacMini 2014. </br>
+HDMI Embedded Audio does Not work at 1920x1080 nor 1920x1200 </br>
 manual say: does Not work with RGB 1920x1080 but works with 1080p or Native </br>
 None Worked probably because Linux was forced at 96Khz, VP-728 is 48Khz. </br>
 $ cat /etc/pulse/daemon.conf </br>
@@ -69,7 +69,7 @@ VP-728 is the Only model that has Sharpnees, Detail Enhancement and Chroma Enhan
 at Low setting, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
 Looking YouTube Videos feels like watching [444](https://www.displayninja.com/chroma-subsampling/) instead of [420](https://en.wikipedia.org/wiki/Chroma_subsampling#Sampling_systems_and_ratios) </br>
 
-Chroma Enhancer also makes compression "artifacts" more visible, </br>
+Chroma Enhancer makes compression "artifacts" more visible, too much compression in Gradient & Shadows. </br>
 the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms.. </br>
 NTSC video looks Ok on a small sceen, but large screens 55" at FullHD, require Enhancements. </br>
 1 type of Shapness is Not enough, too much of a single algorithm looks artificial, </br>
