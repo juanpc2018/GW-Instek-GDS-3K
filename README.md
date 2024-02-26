@@ -44,7 +44,7 @@ maybe others... </br>
 
 Do Not Work: </br>
 Kramer VP-22 "Analog H-V Adjustment, RGBHV to Component BNC" </br>
-Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "Analog VGA 5-wire RGBHV to Component 3-RCA" similar to Kramer VP-22. </br>
+Audio Authority [9A60](https://www.cs1.net/products/audio_authority/9A60A.htm) "Analog VGA RGBHV to Component 3xRCA" similar to VP-22. </br>
 
 VGA to Component Video do Not accept 800x600 "Standard VGA Signal", </br>
 PCIe video card with VGA or [DVI-A](https://en.wikipedia.org/wiki/Digital_Visual_Interface#Connector) output, </br>
@@ -55,7 +55,7 @@ Game Emulators to TVs/Recorders with YPbPr input "Retro Gaming" </br>
 
 The Good, the Bad & the Ugly: </br>
 Kramer VP-728 does Not have enough DSP to do Digital PIP </br>
-VGA + HDMI sadly. </br>
+No VGA + HDMI. </br>
 Only Universal-Inputs+VGA *see manual. </br>
 HDMI Embedded Audio does Not work at 1920x1080 nor 1920x1200 </br>
 manual say: does Not work with RGB 1920x1080 but works with 1080p or Native </br>
