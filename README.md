@@ -71,8 +71,10 @@ Looking YouTube Videos feels like watching [444](https://www.displayninja.com/ch
 Problem with Chroma Enhancer is that also makes compression "artifacts" more visible, </br>
 the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms. sadly. </br>
 
-NTSC looks Ok on a small Cellphone sceen, but in large TV screen 55" at FullHD, Enhancements are a must. </br>
-VP-728 also has Luma Enhancement for YUV signals, does Nothing to RGB signal. </br>
+NTSC looks Ok on a small Cellphone sceen, but large TV screen 55" at FullHD, Enhancements are a must. </br>
+Just 1 type of Shapness is Not enough, too much of a single algorithm looks artificial, specially selected text. </br>
+using mutiple-pass / different algorithms with lower settings gives more natural enhancement. </br>
+VP-728 has Luma Enhancement for YUV signals, but does Nothing to RGB signal. </br>
 
 Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much CPU. </br>
 DSP is more efficient. </br>
