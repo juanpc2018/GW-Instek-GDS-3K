@@ -30,12 +30,13 @@ Works: </br>
 Kramer VP-728 FW 1.29 </br>
 
 Should work: </br>
-Kramer VP-729 "Ethernet"</br>
-Kramer Newer 4K models: [VP-732](https://www1.kramerav.com/us/Product/VP-732), [VP-778](https://www1.kramerav.com/us/product/vp-778)</br>
-Kramer Newer 2K models: [VP-771](https://www1.kramerav.com/us/Product/VP-771), [VP-770](https://www1.kramerav.com/us/Product/VP-770)</br>
+Kramer VP-729 "+Ethernet"</br>
+VP-734 FullHD Input, 4K30 Output. </br>
+4K models: [VP-732](https://www1.kramerav.com/us/Product/VP-732), [VP-778](https://www1.kramerav.com/us/product/vp-778)</br>
+2K models: [VP-771](https://www1.kramerav.com/us/Product/VP-771), [VP-770](https://www1.kramerav.com/us/Product/VP-770)</br>
 
 Maybe work: "Untested" </br>
-Kramer older models: VP-718 719 720 724 xl </br>
+Kramer older models: VP-718 719 720 724xl 725 "VGA to VGA"</br>
 AudioAuthority [1366](https://www.cs1.net/products/audio_authority/1366.htm) "VGA to VGA", [1385](https://www.cs1.net/products/audio_authority/1385.htm) "VGA to HDMI" </br>
 Startech [VGA2HDPRO2](https://www.startech.com/en-us/audio-video-products/vga2hdpro2) similar to 1385.</br>
 Micomsoft XPC-4 </br>
@@ -64,13 +65,17 @@ default-sample-rate = 96000 </br>
 alternate-sample-rate = 96000 </br>
 
 Advantage:  </br>
-VP-728 has Detail Enhancement and Chroma Enhancer </br>
+VP-728 is the Only model that has Detail Enhancement and Chroma Enhancer. </br>
 both settings at Low, increase quality of HDMI 1080p signals drastically on Smart TVs. </br>
 Looking YouTube Videos feels like watching [444](https://www.displayninja.com/chroma-subsampling/) instead of [420](https://en.wikipedia.org/wiki/Chroma_subsampling#Sampling_systems_and_ratios) </br>
-Opera Browser has a Lucid Mode 4 similar to Detail Enhacement Low, but needs too much CPU. </br>
-DSP is much more efficient. </br>
-NTSC looks Ok on a Cellphone, but in large screen 55" FullHD, Enhancements are a must. </br>
-also has Luma Enhancement for YUV signals, does Nothing to RGB signal. </br>
+Problem with Chroma Enhancer is that also makes compression "artifacts" more visible, </br>
+the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms. sadly. </br>
+
+NTSC looks Ok on a small Cellphone sceen, but in large TV screen 55" at FullHD, Enhancements are a must. </br>
+VP-728 also has Luma Enhancement for YUV signals, does Nothing to RGB signal. </br>
+
+Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much CPU. </br>
+DSP is more efficient. </br>
 
 has multiple inputs, works as a Small Switcher. </br>
 good for PC Monitors that only have 1x HDMI input, No VGA input. </br>
