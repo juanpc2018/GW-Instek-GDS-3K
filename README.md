@@ -70,16 +70,16 @@ at Low setting, increase quality of HDMI 1080p signals drastically on Smart TVs.
 Looking YouTube Videos feels like watching [444](https://www.displayninja.com/chroma-subsampling/) instead of [420](https://en.wikipedia.org/wiki/Chroma_subsampling#Sampling_systems_and_ratios) </br>
 
 Chroma Enhancer also makes compression "artifacts" more visible, </br>
-the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms. sadly. </br>
+the following model VP-734 removed Chroma Enhancement, and replaced with Noise Reduction Algorithms.. </br>
 NTSC video looks Ok on a small sceen, but large screens 55" at FullHD, require Enhancements. </br>
 1 type of Shapness is Not enough, too much of a single algorithm looks artificial, </br>
-using mutiple-pass / different algorithms with lower settings gives more natural enhancement. </br>
+different algorithms with lower settings gives natural enhancement. </br>
 
-Opera Browser has a Lucid Mode similar to Detail Enhacement, but needs too much CPU. </br>
+Opera Browser has a Lucid Mode similar to Sharpness, but needs CPU. </br>
 DSP is more efficient. </br>
 
 VP-728 has Luma Enhancement for YUV signals, but does Nothing to RGB signal. </br>
-also has multiple inputs, works as a Small Switcher. </br>
+also multiple inputs, works as a Small Switcher. </br>
 good for PC Monitors with only 1x HDMI input, No VGA input. </br>
 but... </br>
 Max Resolution 1920x1200x60 </br>
