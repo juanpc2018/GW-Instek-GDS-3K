@@ -27,7 +27,7 @@ Plastic Monitors are Not Grounded. </br>
 tested many cheap & hi quality converters without Scaler, None worked. </br>
 
 Works: </br>
-Kramer VP-728 FW 1.29 </br>
+Kramer VP-728 | FW 1.29 </br>
 
 Should work: </br>
 Kramer VP-729 "+Ethernet"</br>
@@ -85,9 +85,12 @@ Max Resolution 1920x1200x60 </br>
 some features do Not work at High Resolution *Read Manual. </br>
 
 Acceptable: </br>
-has a small 1U 12v fan, tolerable, Not as loud / noisy as others. </br>
-fanless modification with bigger heatsinks would be nice. </br>
-or a bigger 140mm fan on the Top, but No longer 1U. </br> 
+has a small 1U 12v 0.6W fan, Sunon  MagLev KDE1204PKV2, Not as loud / noisy as others. </br>
+but fanless modification with bigger heatsinks is nice. </br>
+or bigger 140mm fan on the Top, but No longer 1U. </br> 
+CPU is HQV Aeon-VX SXVX-210 Silicon Optix 1029 SP07898G Spil Taiwan </br>
+Memory 2x hynix 931A C HY5DU561622FTP-4 KOR </br>
+Audio "DSP" Atmel AT89C51RD2-UM | PCM1851A | AD 8183A </br> 
 
 Latency:  </br>
 Near 0, DSP usually has 4-samples of audio latency,  </br>
