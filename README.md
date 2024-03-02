@@ -91,6 +91,7 @@ or bigger 140mm fan on the Top, but No longer 1U. </br>
 CPU is HQV Aeon-VX SXVX-210 Silicon Optix 1029 SP07898G Spil Taiwan </br>
 Memory 2x hynix 931A C HY5DU561622FTP-4 KOR </br>
 Audio "DSP" Atmel AT89C51RD2-UM | PCM1851A | AD 8183A </br> 
+Ti TVP5160 08A889TG4 </br>
 
 Latency:  </br>
 Near 0, DSP usually has 4-samples of audio latency,  </br>
