@@ -93,6 +93,7 @@ Memory 2x hynix 931A C HY5DU561622FTP-4 KOR </br>
 Audio "DSP" Atmel AT89C51RD2-UM | PCM1851A | Cirrus Logic 8416-CZZ | AD 8183A </br> 
 Ti TVP5160 08A889TG4 | MICREL MIC5841YWM | Ti TAS3103A </br>
 NEC Relay UD2-5NUN | LM2596S -3.3 P+ </br>
+24LC1681 | Ti 07ARV1M HCT14 G4 </br>
 
 Latency:  </br>
 Near 0, DSP usually has 4-samples of audio latency,  </br>
