@@ -88,7 +88,7 @@ Acceptable: </br>
 has a small 1U 12v 0.6W fan, Sunon  MagLev KDE1204PKV2, Not as loud / noisy as others. </br>
 but fanless modification with bigger heatsinks is nice. </br>
 or bigger 140mm fan on the Top, but No longer 1U. </br> 
-CPU is HQV Aeon-VX SXVX-210 Silicon Optix 1029 SP07898G Spil Taiwan </br>
+CPU is [HQV](https://web.archive.org/web/20070922055015/http://www.hqv.com/technology/index1/detail_enhancement.cfm) Aeon-VX SXVX-210 [Silicon Optix](https://web.archive.org/web/20040611010226/http://www.siliconoptix.com/products/index.shtml) 1029 SP07898G Spil Taiwan </br>
 Memory 2x hynix 931A C HY5DU561622FTP-4 KOR </br>
 Audio "DSP" Atmel AT89C51RD2-UM | PCM1851A | Cirrus Logic 8416-CZZ | AD 8183A </br> 
 Ti TVP5160 08A889TG4 | MICREL MIC5841YWM | Ti TAS3103A </br>
